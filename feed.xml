@@ -3,12 +3,32 @@
     <title>dzaky.id</title>
     <link href="https://dzaky.id/feed.xml" rel="self" />
     <link href="https://dzaky.id" />
-    <updated>2024-03-15T15:21:25+07:00</updated>
+    <updated>2024-03-15T16:12:13+07:00</updated>
     <author>
         <name>Dzaky Zakiyal Fawwaz</name>
     </author>
     <id>https://dzaky.id</id>
 
+    <entry>
+        <title>Coba lagi</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.id/coba-lagi.html"/>
+        <id>https://dzaky.id/coba-lagi.html</id>
+
+        <updated>2024-03-15T16:12:06+07:00</updated>
+            <summary>
+                <![CDATA[
+                    😀
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>😀</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test</title>
         <author>
