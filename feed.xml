@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>dzaky.id</title>
+    <link href="https://dzaky.id/feed.xml" rel="self" />
+    <link href="https://dzaky.id" />
+    <updated>2024-03-15T15:21:25+07:00</updated>
+    <author>
+        <name>Dzaky Zakiyal Fawwaz</name>
+    </author>
+    <id>https://dzaky.id</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.id/test.html"/>
+        <id>https://dzaky.id/test.html</id>
+
+        <updated>2024-03-15T15:21:25+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dzaky.id",
+    "description": "",
+    "home_page_url": "https://dzaky.id",
+    "feed_url": "https://dzaky.id/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dzaky Zakiyal Fawwaz"
+    },
+    "items": [
+        {
+            "id": "https://dzaky.id/test.html",
+            "url": "https://dzaky.id/test.html",
+            "title": "Test",
+            "summary": "Test",
+            "content_html": "<p>Test</p>",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-15T15:21:25+07:00",
+            "date_modified": "2024-03-15T15:21:25+07:00"
+        }
+    ]
+}
