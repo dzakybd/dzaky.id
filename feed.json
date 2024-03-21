@@ -11,9 +11,9 @@
     },
     "items": [
         {
-            "id": "https://dzaky.id/coba-lagi.html",
-            "url": "https://dzaky.id/coba-lagi.html",
-            "title": "Coba lagi",
+            "id": "https://dzaky.id/coba-lagi/",
+            "url": "https://dzaky.id/coba-lagi/",
+            "title": "Resume",
             "summary": "😀",
             "content_html": "<p>😀</p>",
             "author": {
@@ -22,11 +22,11 @@
             "tags": [
             ],
             "date_published": "2024-03-15T16:12:06+07:00",
-            "date_modified": "2024-03-15T16:12:13+07:00"
+            "date_modified": "2024-03-21T16:58:37+07:00"
         },
         {
-            "id": "https://dzaky.id/test.html",
-            "url": "https://dzaky.id/test.html",
+            "id": "https://dzaky.id/test/",
+            "url": "https://dzaky.id/test/",
             "title": "Test",
             "summary": "Test",
             "content_html": "<p>Test</p>",

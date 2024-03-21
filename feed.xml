@@ -3,19 +3,19 @@
     <title>dzaky.id</title>
     <link href="https://dzaky.id/feed.xml" rel="self" />
     <link href="https://dzaky.id" />
-    <updated>2024-03-15T16:12:13+07:00</updated>
+    <updated>2024-03-21T16:58:37+07:00</updated>
     <author>
         <name>Dzaky Zakiyal Fawwaz</name>
     </author>
     <id>https://dzaky.id</id>
 
     <entry>
-        <title>Coba lagi</title>
+        <title>Resume</title>
         <author>
             <name>Dzaky Zakiyal Fawwaz</name>
         </author>
-        <link href="https://dzaky.id/coba-lagi.html"/>
-        <id>https://dzaky.id/coba-lagi.html</id>
+        <link href="https://dzaky.id/coba-lagi/"/>
+        <id>https://dzaky.id/coba-lagi/</id>
 
         <updated>2024-03-15T16:12:06+07:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Dzaky Zakiyal Fawwaz</name>
         </author>
-        <link href="https://dzaky.id/test.html"/>
-        <id>https://dzaky.id/test.html</id>
+        <link href="https://dzaky.id/test/"/>
+        <id>https://dzaky.id/test/</id>
 
         <updated>2024-03-15T15:21:25+07:00</updated>
             <summary>
