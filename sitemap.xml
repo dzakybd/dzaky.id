@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.dzaky.id/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://dzaky.id/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://www.dzaky.id/</loc>
+<loc>https://dzaky.id/</loc>
 </url>
 <url>
-<loc>https://www.dzaky.id/coba-lagi/</loc>
+<loc>https://dzaky.id/coba-lagi/</loc>
 <lastmod>2024-03-26T10:05:29+07:00</lastmod>
 </url>
 <url>
-<loc>https://www.dzaky.id/test/</loc>
+<loc>https://dzaky.id/test/</loc>
 <lastmod>2024-03-15T15:21:25+07:00</lastmod>
 </url>
 </urlset>
