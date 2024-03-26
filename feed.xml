@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>dzaky.id</title>
-    <link href="https://dzaky.id/feed.xml" rel="self" />
-    <link href="https://dzaky.id" />
-    <updated>2024-03-21T16:58:37+07:00</updated>
+    <link href="https://www.dzaky.id/feed.xml" rel="self" />
+    <link href="https://www.dzaky.id" />
+    <updated>2024-03-26T10:05:29+07:00</updated>
     <author>
         <name>Dzaky Zakiyal Fawwaz</name>
     </author>
-    <id>https://dzaky.id</id>
+    <id>https://www.dzaky.id</id>
 
     <entry>
         <title>Resume</title>
         <author>
             <name>Dzaky Zakiyal Fawwaz</name>
         </author>
-        <link href="https://dzaky.id/coba-lagi/"/>
-        <id>https://dzaky.id/coba-lagi/</id>
+        <link href="https://www.dzaky.id/coba-lagi/"/>
+        <id>https://www.dzaky.id/coba-lagi/</id>
 
         <updated>2024-03-15T16:12:06+07:00</updated>
             <summary>
                 <![CDATA[
-                    😀
+                    DDD
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>😀</p>
+                <p>DDD</p>
             ]]>
         </content>
     </entry>
@@ -34,8 +34,8 @@
         <author>
             <name>Dzaky Zakiyal Fawwaz</name>
         </author>
-        <link href="https://dzaky.id/test/"/>
-        <id>https://dzaky.id/test/</id>
+        <link href="https://www.dzaky.id/test/"/>
+        <id>https://www.dzaky.id/test/</id>
 
         <updated>2024-03-15T15:21:25+07:00</updated>
             <summary>

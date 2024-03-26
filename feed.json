@@ -2,31 +2,31 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "dzaky.id",
     "description": "",
-    "home_page_url": "https://dzaky.id",
-    "feed_url": "https://dzaky.id/feed.json",
+    "home_page_url": "https://www.dzaky.id",
+    "feed_url": "https://www.dzaky.id/feed.json",
     "user_comment": "",
-    "icon": "https://dzaky.id/media/website/75446557_2866984779981466_1843092916231208960_n-removebg-preview.png",
+    "icon": "https://www.dzaky.id/media/website/75446557_2866984779981466_1843092916231208960_n-removebg-preview.png",
     "author": {
         "name": "Dzaky Zakiyal Fawwaz"
     },
     "items": [
         {
-            "id": "https://dzaky.id/coba-lagi/",
-            "url": "https://dzaky.id/coba-lagi/",
+            "id": "https://www.dzaky.id/coba-lagi/",
+            "url": "https://www.dzaky.id/coba-lagi/",
             "title": "Resume",
-            "summary": "😀",
-            "content_html": "<p>😀</p>",
+            "summary": "DDD",
+            "content_html": "<p>DDD</p>",
             "author": {
                 "name": "Dzaky Zakiyal Fawwaz"
             },
             "tags": [
             ],
             "date_published": "2024-03-15T16:12:06+07:00",
-            "date_modified": "2024-03-21T16:58:37+07:00"
+            "date_modified": "2024-03-26T10:05:29+07:00"
         },
         {
-            "id": "https://dzaky.id/test/",
-            "url": "https://dzaky.id/test/",
+            "id": "https://www.dzaky.id/test/",
+            "url": "https://www.dzaky.id/test/",
             "title": "Test",
             "summary": "Test",
             "content_html": "<p>Test</p>",
